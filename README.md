@@ -1,7 +1,7 @@
 # whisper
 Transcribe videos to SRT subtitles using OpenAI Whisper
 
-#install
+# install
 1) Instalar o Python
 2) Instalar a bibliotecta OpenAI Whisper
 
